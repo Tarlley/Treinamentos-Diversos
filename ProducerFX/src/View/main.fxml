@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #687DC7;" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.MainController">
+   <children>
+      <AnchorPane prefHeight="210.0" prefWidth="300.0">
+         <children>
+            <Label layoutX="125.0" layoutY="46.0" text="Produção" />
+            <Button fx:id="btnRegisterProduction" layoutX="58.0" layoutY="146.0" mnemonicParsing="false" stylesheets="@teste.css" text="Cadastrar" textFill="WHITE" textOverrun="WORD_ELLIPSIS" />
+            <Button fx:id="btnConsultProduction" layoutX="176.0" layoutY="146.0" mnemonicParsing="false" stylesheets="@teste.css" text="Consultar" textFill="WHITE" AnchorPane.rightAnchor="65.0" />
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutX="300.0" prefHeight="210.0" prefWidth="300.0">
+         <children>
+            <Label layoutX="119.0" layoutY="43.0" text="Distribuição" />
+            <Button fx:id="btnRegisterDistribution" layoutX="52.0" layoutY="146.0" mnemonicParsing="false" stylesheets="@teste.css" text="Cadastrar" textFill="WHITE" AnchorPane.bottomAnchor="39.0" AnchorPane.leftAnchor="65.0" />
+            <Button fx:id="btnConsultDistribution" layoutX="182.0" layoutY="146.0" mnemonicParsing="false" stylesheets="@teste.css" text="Consultar" textFill="WHITE" AnchorPane.bottomAnchor="39.0" AnchorPane.rightAnchor="65.0" />
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutY="208.0" prefHeight="200.0" prefWidth="300.0">
+         <children>
+            <Label layoutX="136.0" layoutY="14.0" text="Produto" />
+            <Button fx:id="btnRegisterProduct" layoutX="57.0" layoutY="143.0" mnemonicParsing="false" onAction="#onAction" stylesheets="@teste.css" text="Cadastrar" AnchorPane.bottomAnchor="39.0" AnchorPane.leftAnchor="65.0" />
+            <Button fx:id="btnConsultProduct" layoutX="202.0" layoutY="143.0" mnemonicParsing="false" stylesheets="@teste.css" text="Contultar" AnchorPane.bottomAnchor="39.0" AnchorPane.leftAnchor="169.0" AnchorPane.rightAnchor="65.0" />
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutX="300.0" layoutY="208.0" prefHeight="200.0" prefWidth="300.0">
+         <children>
+            <Button fx:id="btnReport" layoutX="65.0" layoutY="100.0" mnemonicParsing="false" stylesheets="@teste.css" text="Relatório" textFill="WHITE" AnchorPane.bottomAnchor="39.0" AnchorPane.leftAnchor="65.0" />
+            <Button fx:id="btnExit" layoutX="206.0" layoutY="100.0" mnemonicParsing="false" stylesheets="@teste.css" text="Sair" textFill="WHITE" AnchorPane.bottomAnchor="39.0" AnchorPane.rightAnchor="65.0" />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3490b90-c920-409b-8bd6-ce40fc629c9b" name="Default Changelist" comment="Incluindo as pastas">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/ProducerFX.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/out/production/ProducerFX/Controller/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/out/production/ProducerFX/Controller/MainController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/out/production/ProducerFX/Controller/RegisterProductController$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/out/production/ProducerFX/Controller/RegisterProductController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/out/production/ProducerFX/Controller/RegisterScreenController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/out/production/ProducerFX/DAO/ProductDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/out/production/ProducerFX/DAO/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/out/production/ProducerFX/Images/austin-228x400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/out/production/ProducerFX/Images/collaborator_male_24px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/out/production/ProducerFX/JDBC/ConnectionFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/out/production/ProducerFX/Model/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/out/production/ProducerFX/Model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/out/production/ProducerFX/Producer/Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/out/production/ProducerFX/Producer/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/out/production/ProducerFX/Producer/RegisterProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/out/production/ProducerFX/Producer/RegisterScreen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/out/production/ProducerFX/View/login.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/out/production/ProducerFX/View/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/out/production/ProducerFX/View/registerProduct.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/out/production/ProducerFX/View/registerScreen.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/out/production/ProducerFX/View/teste.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/out/production/ProducerFX/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/src/Controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/src/Controller/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/src/Controller/RegisterProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/src/Controller/RegisterScreenController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/src/DAO/ProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/src/DAO/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/src/Images/austin-228x400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/src/Images/collaborator_male_24px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/src/JDBC/ConnectionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/src/Model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/src/Model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/src/Producer/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/src/Producer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/src/Producer/RegisterProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/src/Producer/RegisterScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/src/View/login.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/src/View/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/src/View/registerProduct.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/src/View/registerScreen.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/src/View/teste.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerFX/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Teste/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Teste/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Teste/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Teste/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Teste/Teste.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Teste/out/production/Teste/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Teste/src/MainTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/.idea/dictionaries/tarll.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/Imagem/austin-228x400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/Imagem/baixados.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/TesteFX.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/out/production/TesteFX/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/out/production/TesteFX/sample/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/out/production/TesteFX/sample/Production.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/out/production/TesteFX/sample/SQL/DatabaseConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/out/production/TesteFX/sample/SQL/Sql.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/out/production/TesteFX/sample/TesteFX.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/out/production/TesteFX/sample/View/ConsultScreenController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/out/production/TesteFX/sample/View/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/out/production/TesteFX/sample/View/MainController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/out/production/TesteFX/sample/View/RegisterScreenProduction$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/out/production/TesteFX/sample/View/RegisterScreenProduction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/out/production/TesteFX/sample/View/consultScreen.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/out/production/TesteFX/sample/View/login.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/out/production/TesteFX/sample/View/main_screen.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/out/production/TesteFX/sample/View/registerScreenProduction.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/src/sample/Production.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/src/sample/SQL/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/src/sample/SQL/Sql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/src/sample/TesteFX.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/src/sample/View/ConsultScreenController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/src/sample/View/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/src/sample/View/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/src/sample/View/RegisterScreenProduction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/src/sample/View/consultScreen.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/src/sample/View/login.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/src/sample/View/main_screen.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteFX/src/sample/View/registerScreenProduction.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboBox/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboBox/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboBox/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboBox/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboBox/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboBox/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboBox/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboBox/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboBox/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboBox/comboBox.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboBox/out/production/comboBox/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboBox/out/production/comboBox/sample/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboBox/out/production/comboBox/sample/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboBox/out/production/comboBox/sample/model/Categoria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboBox/out/production/comboBox/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboBox/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboBox/src/sample/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboBox/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboBox/src/sample/model/Categoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comboBox/src/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producaoFx/.idea/artifacts/JavaFxApp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producaoFx/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producaoFx/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producaoFx/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producaoFx/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producaoFx/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producaoFx/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producaoFx/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producaoFx/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producaoFx/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producaoFx/JavaFxApplication.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producaoFx/producaoFx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producaoFx/src/sample/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producaoFx/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producaoFx/src/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/out/production/untitled/sample/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/out/production/untitled/sample/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/out/production/untitled/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/sample/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/.idea/libraries/javafx_sdk1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/out/production/untitled1/sample/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/out/production/untitled1/sample/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/out/production/untitled1/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/src/sample/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/src/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/untitled1.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1owvIFVHDycpG007MSZ7SeGbM8m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="F:/mysql-connector-java-5.1.49/mysql-connector-java-5.1.49/mysql-connector-java-5.1.49.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3490b90-c920-409b-8bd6-ce40fc629c9b" name="Default Changelist" comment="" />
+      <created>1614210387636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614210387636</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/tarll/OneDrive/Documentos/IdeaProjects/comboBox" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Incluindo as pastas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Incluindo as pastas" />
+  </component>
+</project>

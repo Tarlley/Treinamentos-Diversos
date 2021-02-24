@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane cache="true" cacheHint="SCALE" cacheShape="false" maxHeight="400.0" maxWidth="520.0" minHeight="400.0" minWidth="520.0" prefHeight="400.0" prefWidth="520.0" scaleShape="false" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.View.RegisterScreenProduction">
+   <children>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="157.0" layoutY="14.0" prefHeight="18.0" prefWidth="207.0" text="Cadastro da Produção" />
+      <Label layoutX="73.0" layoutY="58.0" text="Nome do Produto *" />
+      <Label layoutX="72.0" layoutY="118.0" text="Quantidade produzida *" />
+      <Label layoutX="72.0" layoutY="183.0" text="Data da produção *" />
+      <Label layoutX="73.0" layoutY="257.0" text="Observação" />
+      <TextField fx:id="amountField" layoutX="301.0" layoutY="114.0" prefHeight="26.0" prefWidth="152.0" />
+      <DatePicker fx:id="datePicker" layoutX="302.0" layoutY="179.0" prefHeight="26.0" prefWidth="152.0" />
+      <TextArea fx:id="noteField" layoutX="302.0" layoutY="247.0" prefHeight="92.0" prefWidth="152.0" wrapText="true" />
+      <ButtonBar layoutX="300.0" layoutY="360.0" prefHeight="40.0" prefWidth="200.0">
+        <buttons>
+          <Button fx:id="insertButton" mnemonicParsing="false" onAction="#insertButtonOnAction" text="Inserir" />
+            <Button fx:id="cancelButton" mnemonicParsing="false" onAction="#sair" text="Cancelar" />
+        </buttons>
+      </ButtonBar>
+      <Label fx:id="resultLabel" layoutX="24.0" layoutY="372.0" prefHeight="18.0" prefWidth="246.0" />
+      <ComboBox fx:id="productNameField" editable="true" layoutX="304.0" layoutY="54.0" prefWidth="150.0" />
+   </children>
+</Pane>

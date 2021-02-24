@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.RegisterScreenController">
+   <children>
+      <Label layoutX="80.0" layoutY="71.0" text="Nome" />
+      <Label layoutX="80.0" layoutY="104.0" text="Usuário" />
+      <Label layoutX="80.0" layoutY="140.0" text="Email" />
+      <Label layoutX="80.0" layoutY="176.0" text="Senha" />
+      <Label layoutX="80.0" layoutY="215.0" text="Confirmação de Senha" />
+      <Button layoutX="116.0" layoutY="319.0" mnemonicParsing="false" text="Cadastrar" />
+      <Button layoutX="274.0" layoutY="319.0" mnemonicParsing="false" text="Limpar" />
+      <Button layoutX="455.0" layoutY="319.0" mnemonicParsing="false" text="Voltar" />
+      <TextField fx:id="textName" layoutX="226.0" layoutY="67.0" promptText="Nome" />
+      <TextField fx:id="textNickname" layoutX="226.0" layoutY="100.0" onKeyTyped="#onKeyTyped" promptText="Usuário" />
+      <TextField fx:id="textEmail" layoutX="226.0" layoutY="136.0" promptText="Email" />
+      <PasswordField fx:id="textPassword" layoutX="226.0" layoutY="172.0" promptText="Senha" />
+      <PasswordField fx:id="textPasswordConfirmation" layoutX="226.0" layoutY="211.0" onKeyTyped="#onKeyTyped" promptText="Confirmação de senha" />
+      <Label layoutX="256.0" layoutY="22.0" text="Tela de Cadastro" />
+      <Label fx:id="labelPasswordAlert" alignment="CENTER" layoutX="8.0" layoutY="243.0" prefHeight="17.0" prefWidth="581.0" textFill="RED" />
+      <Label fx:id="labelUserAlert" layoutX="403.0" layoutY="71.0" prefHeight="17.0" prefWidth="127.0" textFill="RED" />
+   </children>
+</AnchorPane>
